@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40273" started-at="2017-06-13T06:30:57Z" finished-at="2017-06-13T06:31:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40273" started-at="2017-06-13T06:30:57Z" finished-at="2017-06-13T06:31:37Z">
+      <class name="git_test.test_selenium">
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:git_test.test_selenium@83b407]" name="browserlaunch" is-config="true" duration-ms="27259" started-at="2017-06-13T12:00:57Z" finished-at="2017-06-13T12:01:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="test()[pri:0, instance:git_test.test_selenium@83b407]" name="test" duration-ms="10360" started-at="2017-06-13T12:01:24Z" finished-at="2017-06-13T12:01:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:git_test.test_selenium@83b407]" name="teardown" is-config="true" duration-ms="2611" started-at="2017-06-13T12:01:34Z" finished-at="2017-06-13T12:01:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- git_test.test_selenium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
