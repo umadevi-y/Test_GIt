@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="40273" started-at="2017-06-13T06:30:57Z" finished-at="2017-06-13T06:31:37Z">
+  <suite name="Default suite" duration-ms="28387" started-at="2017-06-13T11:33:29Z" finished-at="2017-06-13T11:33:57Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="40273" started-at="2017-06-13T06:30:57Z" finished-at="2017-06-13T06:31:37Z">
+    <test name="Default test" duration-ms="28387" started-at="2017-06-13T11:33:29Z" finished-at="2017-06-13T11:33:57Z">
       <class name="git_test.test_selenium">
-        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:git_test.test_selenium@83b407]" name="browserlaunch" is-config="true" duration-ms="27259" started-at="2017-06-13T12:00:57Z" finished-at="2017-06-13T12:01:24Z">
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:git_test.test_selenium@83b407]" name="browserlaunch" is-config="true" duration-ms="12647" started-at="2017-06-13T17:03:29Z" finished-at="2017-06-13T17:03:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method status="PASS" signature="test()[pri:0, instance:git_test.test_selenium@83b407]" name="test" duration-ms="10360" started-at="2017-06-13T12:01:24Z" finished-at="2017-06-13T12:01:34Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:git_test.test_selenium@83b407]" name="test" duration-ms="11739" started-at="2017-06-13T17:03:42Z" finished-at="2017-06-13T17:03:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:git_test.test_selenium@83b407]" name="teardown" is-config="true" duration-ms="2611" started-at="2017-06-13T12:01:34Z" finished-at="2017-06-13T12:01:37Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:git_test.test_selenium@83b407]" name="teardown" is-config="true" duration-ms="3970" started-at="2017-06-13T17:03:53Z" finished-at="2017-06-13T17:03:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
